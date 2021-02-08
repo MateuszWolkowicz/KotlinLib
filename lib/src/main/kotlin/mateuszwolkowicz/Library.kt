@@ -5,6 +5,6 @@ package mateuszwolkowicz
 
 class Library {
     fun someLibraryMethod(): Boolean {
-        return true
+        return false
     }
 }
