@@ -1,0 +1,1 @@
+const val coroutinesVersion = "1.4.2"
